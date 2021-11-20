@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.rewards.program;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
